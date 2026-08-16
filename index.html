@@ -1,0 +1,24 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>잇즈템 상품찾기</title><style>
+body{margin:0;background:#eaf5ef;font-family:Arial,sans-serif;color:#222}.wrap{max-width:820px;margin:auto;padding:22px 14px 60px}.hero{text-align:center}.logo{width:96px;height:96px;border-radius:50%;margin:auto;background:#97ff18;border:7px solid #fff;display:grid;place-items:center;font-weight:900}.search{display:flex;gap:8px;background:#fff;border-radius:18px;padding:12px 14px;margin:20px 0}.search input{flex:1;border:0;outline:0;font-size:18px}.card{background:#fff;border-radius:18px;padding:14px;margin:14px 0;box-shadow:0 8px 24px rgba(0,0,0,.08);display:grid;grid-template-columns:112px 1fr;gap:15px}.thumb{width:112px;height:112px;object-fit:cover;border-radius:14px}.ph{width:112px;height:112px;background:#f3f3f3;border-radius:14px;display:grid;place-items:center}.badge{display:inline-block;background:#111;color:#fff;border-radius:999px;padding:5px 9px;font-weight:800}.name{font-size:20px;font-weight:800;margin:7px 0}.buy{display:inline-block;background:#111;color:#fff;text-decoration:none;padding:11px 15px;border-radius:12px;font-weight:800}.count{color:#666}
+</style></head><body><div class="wrap"><div class="hero"><div class="logo">잇즈템<br>상품찾기</div><h1>영상 속 상품을 바로 찾아보세요</h1><p>영상에 표시된 <b>잇즈템 상품번호</b>를 입력해 주세요.<br>상품명으로도 검색할 수 있어요.</p></div><div class="search"><input id="q" placeholder="예: 2번 또는 낚시 감기기"><button onclick="render()">검색</button><button onclick="q.value='';render()">지우기</button></div><div id="count" class="count"></div><div id="list"></div></div><script src="products.js"></script><script>
+const DATA=Array.isArray(window.PRODUCTS)?window.PRODUCTS:[];const q=document.getElementById('q'),list=document.getElementById('list'),count=document.getElementById('count');function n(s){return String(s||'').toLowerCase().trim()}function render(){
+ const t=n(q.value);
+ let rows=[];
+ if(!t){
+   rows=DATA;
+ }else{
+   const numberOnly=t.replace(/번/g,'').replace(/\s/g,'');
+   if(/^\d+$/.test(numberOnly)){
+     const wanted=String(parseInt(numberOnly,10));
+     rows=DATA.filter(x=>String(x.internal_no)===wanted);
+   }else{
+     rows=DATA.filter(x=>[x.name,x.keywords,x.smartstore_product_no].map(n).some(v=>v.includes(t)));
+   }
+ }
+ count.textContent='검색 결과 '+rows.length+'개';
+ list.innerHTML=rows.map(x=>`<div class="card">${x.image?`<img class="thumb" src="${x.image}">`:'<div class="ph">🛍️</div>'}<div><span class="badge">상품번호 ${x.internal_no}번</span><div class="name">${x.name}</div><a class="buy" href="${x.url}" target="_blank">구매하러 가기</a></div></div>`).join('')||'<p>검색 결과가 없습니다.</p>'
+}
+q.addEventListener('input',render);
+q.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();render();}});
+render();
+</script></body></html>
