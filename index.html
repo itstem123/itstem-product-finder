@@ -91,6 +91,7 @@ h1{
   margin:7px 0 10px;
   overflow-wrap:anywhere;
 }
+.buyrow{display:flex;gap:8px;flex-wrap:wrap}
 .buy{
   display:inline-block;
   background:#111;color:#fff;
@@ -192,7 +193,7 @@ const DATA=Array.isArray(window.PRODUCTS)?window.PRODUCTS:[];const q=document.ge
    }
  }
  count.textContent='검색 결과 '+rows.length+'개';
- list.innerHTML=rows.map(x=>`<div class="card">${x.image?`<img class="thumb" src="${x.image}">`:'<div class="ph">🛍️</div>'}<div><span class="badge">상품번호 ${x.internal_no}번</span><div class="name">${x.name}</div><a class="buy" href="${x.url}" target="_blank">구매하러 가기</a></div></div>`).join('')||'<p>검색 결과가 없습니다.</p>'
+ list.innerHTML=rows.map(x=>`<div class="card">${x.image?`<img class="thumb" src="${x.image}">`:'<div class="ph">🛍️</div>'}<div><span class="badge">상품번호 ${x.internal_no}번</span><div class="name">${x.name}</div><div class="buyrow">${x.url?`<a class="buy" href="${x.url}" target="_blank" rel="noopener">스마트스토어 구매</a>`:''}${x.coupang_url?`<a class="buy" href="${x.coupang_url}" target="_blank" rel="noopener">쿠팡 구매</a>`:''}</div></div></div>`).join('')||'<p>검색 결과가 없습니다.</p>'
 }
 q.addEventListener('input',render);
 q.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();render();}});
