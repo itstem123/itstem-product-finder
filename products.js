@@ -88,5 +88,14 @@ window.PRODUCTS = [
     "url": "https://smartstore.naver.com/itstem123123/products/13720639918",
     "keywords": "업소용 닭털 제거기계 자동 제모기 세척 처리장비 분무형 전동 깃털 탈모기 40L스탠다드핏 탈비둘기 탈계불가",
     "coupang_url": ""
+  },
+  {
+    "internal_no": 11,
+    "smartstore_product_no": "13081741078",
+    "name": "(소유형)LG클로이 서빙로봇 3세대 중고 특A급 식당 레스토랑 서브봇 주방 PC방",
+    "image": "images/13081741078.png",
+    "url": "https://smartstore.naver.com/ocean19811981/products/13081741078",
+    "coupang_url": "",
+    "keywords": "(소유형)LG클로이 서빙로봇 3세대 중고 특A급 식당 레스토랑 서브봇 주방 PC방"
   }
 ];
