@@ -94,7 +94,7 @@ window.PRODUCTS = [
     "smartstore_product_no": "13081741078",
     "name": "(소유형)LG클로이 서빙로봇 3세대 중고 특A급 식당 레스토랑 서브봇 주방 PC방",
     "image": "images/13081741078.png",
-    "url": "https://smartstore.naver.com/ocean19811981/products/13081741078",
+    "url": "https://smartstore.naver.com/ocean03/products/13081741078",
     "coupang_url": "",
     "keywords": "(소유형)LG클로이 서빙로봇 3세대 중고 특A급 식당 레스토랑 서브봇 주방 PC방"
   }
