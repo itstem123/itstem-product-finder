@@ -97,5 +97,13 @@ window.PRODUCTS = [
     "url": "https://smartstore.naver.com/ocean03/products/13081741078",
     "coupang_url": "",
     "keywords": "(소유형)LG클로이 서빙로봇 3세대 중고 특A급 식당 레스토랑 서브봇 주방 PC방"
+  },
+  {
+    "internal_no": 12,
+    "smartstore_product_no": "13559061019",
+    "name": "오아시스 원형 꽃꽂이",
+    "image": "images/13559061019.png",
+    "url": "https://smartstore.naver.com/itstem123123/products/13559061019",
+    "keywords": "오아시스 원형 꽃꽂이"
   }
 ];
