@@ -97,7 +97,11 @@ window.PRODUCTS = [
     "image": "images/13707333359.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13707333359",
     "keywords": "플라스틱 대형 직사각형 수납함 뚜껑 포함 물류용 박스 755 박스 [815x570x505 mm] 옐로우 뚜껑 없음",
-    "coupang_url": ""
+    "coupang_url": "",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13707333359",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 9,
