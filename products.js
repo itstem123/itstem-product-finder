@@ -176,5 +176,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "이동식 접이식 파티션 가림막 칸막이 가벽 인테리어 공간분리 가리개 M-01 6패널 클립보드 (1.8m)"
+  },
+  {
+    "internal_no": 15,
+    "smartstore_product_no": "13729557433",
+    "name": "태양열 조리기 접이식 태양광 야외 물끓이기 지름1.56 m",
+    "image": "images/13729557433.jpg",
+    "url": "https://smartstore.naver.com/itstem123123/products/13729557433",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729557433",
+    "coupang_url": "",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "태양열 조리기 접이식 태양광 야외 물끓이기 지름1.56 m"
   }
 ];
