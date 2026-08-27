@@ -163,5 +163,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "탁구 탁상용 이동식 수거망 집구기 다구간 수집기 연습용 네트 블랙 데스크탑 볼 수집망"
+  },
+  {
+    "internal_no": 14,
+    "smartstore_product_no": "13729557258",
+    "name": "이동식 접이식 파티션 가림막 칸막이 가벽 인테리어 공간분리 가리개 M-01 6패널 클립보드 (1.8m)",
+    "image": "images/13729557258.jpg",
+    "url": "https://smartstore.naver.com/itstem123123/products/13729557258",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729557258",
+    "coupang_url": "https://www.coupang.com/vp/products/9702568458?vendorItemId=95952912187",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "이동식 접이식 파티션 가림막 칸막이 가벽 인테리어 공간분리 가리개 M-01 6패널 클립보드 (1.8m)"
   }
 ];
