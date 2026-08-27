@@ -45,7 +45,11 @@ window.PRODUCTS = [
     "image": "images/13701069188.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13701069188",
     "keywords": "윤활유 내마모 테스트기 연료 기름 구리스 공업소 280W 디지털",
-    "coupang_url": ""
+    "coupang_url": "https://www.coupang.com/vp/products/9682602664?vendorItemId=95884910628",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13701069188",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 5,
