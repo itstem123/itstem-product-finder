@@ -202,5 +202,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "호텔 객실 청소카트 스테인리스 이동식 서비스 트롤리 4관"
+  },
+  {
+    "internal_no": 17,
+    "smartstore_product_no": "13729557848",
+    "name": "가정용 소형 레드와인 선반 원목 진열장 바용 와인 보관 인테리어 티 4단 52길이",
+    "image": "images/13729557848.jpg",
+    "url": "https://smartstore.naver.com/itstem123123/products/13729557848",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729557848",
+    "coupang_url": "https://www.coupang.com/vp/products/9702568927?vendorItemId=95952914279",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "가정용 소형 레드와인 선반 원목 진열장 바용 와인 보관 인테리어 티 4단 52길이"
   }
 ];
