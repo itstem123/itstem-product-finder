@@ -3,10 +3,14 @@ window.PRODUCTS = [
     "internal_no": 1,
     "smartstore_product_no": "13685511894",
     "name": "업소용 스텐 주방 조리대 선반 식당 테이블 60x40x80 2단 1인당 1개 한정",
-    "image": "images/13685511894.jpg",
+    "image": "images/13685511894.png",
     "url": "https://smartstore.naver.com/itstem123123/products/13685511894",
     "keywords": "업소용 스텐 주방 조리대 선반 식당 테이블 60x40x80 2단 1인당 1개 한정",
-    "coupang_url": "https://www.coupang.com/vp/products/9507861465?vendorItemId=95845603087"
+    "coupang_url": "https://www.coupang.com/vp/products/9507861465?vendorItemId=95845603087",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13685511894",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 2,
