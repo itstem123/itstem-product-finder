@@ -254,5 +254,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "이중 댄스 학교용 블랙 사각관 고정형 압다리 바닥형 요가실 무용 연습용 기본 크림화이트 블랙"
+  },
+  {
+    "internal_no": 21,
+    "smartstore_product_no": "13729558885",
+    "name": "스테인리스 자흡펌프 내산 내알칼리 화공펌프 방폭 원심펌프 304 셀프프라이밍 25WBZ4110.37KW 220V 단상",
+    "image": "images/13729558885.jpg",
+    "url": "https://smartstore.naver.com/itstem123123/products/13729558885",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729558885",
+    "coupang_url": "https://www.coupang.com/vp/products/9702570224?vendorItemId=95952918145",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "스테인리스 자흡펌프 내산 내알칼리 화공펌프 방폭 원심펌프 304 셀프프라이밍 25WBZ4110.37KW 220V 단상"
   }
 ];
