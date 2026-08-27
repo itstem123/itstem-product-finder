@@ -58,7 +58,11 @@ window.PRODUCTS = [
     "image": "images/13701070024.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13701070024",
     "coupang_url": "",
-    "keywords": "야외 베란다 철제 방수 청소도구 정리함"
+    "keywords": "야외 베란다 철제 방수 청소도구 정리함",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13701070024",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 6,
