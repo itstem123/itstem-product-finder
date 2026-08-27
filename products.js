@@ -83,8 +83,12 @@ window.PRODUCTS = [
     "name": "산업용 미스트 선풍기 가습 냉풍기 강력 수냉식 업소용 야외용",
     "image": "images/13702375692.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13702375692",
-    "coupang_url": "",
-    "keywords": "산업용 미스트 선풍기 가습 냉풍기 강력 수냉식 업소용 야외용"
+    "coupang_url": "https://www.coupang.com/vp/products/9683311131?vendorItemId=95887146048",
+    "keywords": "산업용 미스트 선풍기 가습 냉풍기 강력 수냉식 업소용 야외용",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13702375692",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 8,
