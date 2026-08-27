@@ -267,5 +267,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "스테인리스 자흡펌프 내산 내알칼리 화공펌프 방폭 원심펌프 304 셀프프라이밍 25WBZ4110.37KW 220V 단상"
+  },
+  {
+    "internal_no": 22,
+    "smartstore_product_no": "13729559181",
+    "name": "유압 냉각기 기계식 쿨러 차량용 오일탱크 시스템 AH1012T-100L(12V_24V)",
+    "image": "images/13729559181.jpg",
+    "url": "https://smartstore.naver.com/itstem123123/products/13729559181",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729559181",
+    "coupang_url": "",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "유압 냉각기 기계식 쿨러 차량용 오일탱크 시스템 AH1012T-100L(12V_24V)"
   }
 ];
