@@ -215,5 +215,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "가정용 소형 레드와인 선반 원목 진열장 바용 와인 보관 인테리어 티 4단 52길이"
+  },
+  {
+    "internal_no": 18,
+    "smartstore_product_no": "13729558112",
+    "name": "세탁기 건조기 통돌이 높이조절 받침대 방진 탄소강 40x40x40 두꺼운 블랙 1세트",
+    "image": "images/13729558112.jpg",
+    "url": "https://smartstore.naver.com/itstem123123/products/13729558112",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729558112",
+    "coupang_url": "",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "세탁기 건조기 통돌이 높이조절 받침대 방진 탄소강 40x40x40 두꺼운 블랙 1세트"
   }
 ];
