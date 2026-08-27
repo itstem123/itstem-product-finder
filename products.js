@@ -241,5 +241,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "상업용 다층 수납 슈퍼마켓 진열대 강력 하중 스탠드 4단 120cm 블루 메인 프레임 기본 80x40cm 300kg"
+  },
+  {
+    "internal_no": 20,
+    "smartstore_product_no": "13729558462",
+    "name": "이중 댄스 학교용 블랙 사각관 고정형 압다리 바닥형 요가실 무용 연습용 기본 크림화이트 블랙",
+    "image": "images/13729558462.jpg",
+    "url": "https://smartstore.naver.com/itstem123123/products/13729558462",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729558462",
+    "coupang_url": "",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "이중 댄스 학교용 블랙 사각관 고정형 압다리 바닥형 요가실 무용 연습용 기본 크림화이트 블랙"
   }
 ];
