@@ -19,7 +19,11 @@ window.PRODUCTS = [
     "image": "images/13700267842.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13700267842",
     "keywords": "낚시 릴 감기기 라인 와인더 감기 도구 릴줄 정리 용품 업그레이드 세트 [미터 카운터 포함]",
-    "coupang_url": ""
+    "coupang_url": "https://www.coupang.com/vp/products/9682000816?vendorItemId=95882965635",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13700267842",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 3,
