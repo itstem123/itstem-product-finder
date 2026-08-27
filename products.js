@@ -150,5 +150,18 @@ window.PRODUCTS = [
     "market_display": "coupang_only",
     "show_smartstore": false,
     "show_coupang": true
+  },
+  {
+    "internal_no": 13,
+    "smartstore_product_no": "13729557034",
+    "name": "탁구 탁상용 이동식 수거망 집구기 다구간 수집기 연습용 네트 블랙 데스크탑 볼 수집망",
+    "image": "images/13729557034.jpg",
+    "url": "https://smartstore.naver.com/itstem123123/products/13729557034",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729557034",
+    "coupang_url": "https://www.coupang.com/vp/products/8522010429?vendorItemId=95952911442",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "탁구 탁상용 이동식 수거망 집구기 다구간 수집기 연습용 네트 블랙 데스크탑 볼 수집망"
   }
 ];
