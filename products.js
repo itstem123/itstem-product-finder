@@ -71,7 +71,11 @@ window.PRODUCTS = [
     "image": "images/13701070612.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13701070612",
     "coupang_url": "",
-    "keywords": "야외 테라스 정원 테이블 세트 플라스틱 우드 휴게 공간용"
+    "keywords": "야외 테라스 정원 테이블 세트 플라스틱 우드 휴게 공간용",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13701070612",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 7,
