@@ -189,5 +189,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "태양열 조리기 접이식 태양광 야외 물끓이기 지름1.56 m"
+  },
+  {
+    "internal_no": 16,
+    "smartstore_product_no": "13729557652",
+    "name": "호텔 객실 청소카트 스테인리스 이동식 서비스 트롤리 4관",
+    "image": "images/13729557652.jpg",
+    "url": "https://smartstore.naver.com/itstem123123/products/13729557652",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729557652",
+    "coupang_url": "https://www.coupang.com/vp/products/8908978156?vendorItemId=95952913532",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "호텔 객실 청소카트 스테인리스 이동식 서비스 트롤리 4관"
   }
 ];
