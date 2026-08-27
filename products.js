@@ -119,7 +119,11 @@ window.PRODUCTS = [
     "image": "images/13720639918.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13720639918",
     "keywords": "업소용 닭털 제거기계 자동 제모기 세척 처리장비 분무형 전동 깃털 탈모기 40L스탠다드핏 탈비둘기 탈계불가",
-    "coupang_url": ""
+    "coupang_url": "",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13720639918",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 11,
