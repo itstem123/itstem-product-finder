@@ -280,5 +280,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "유압 냉각기 기계식 쿨러 차량용 오일탱크 시스템 AH1012T-100L(12V_24V)"
+  },
+  {
+    "internal_no": 23,
+    "smartstore_product_no": "13655924834",
+    "name": "컨베이어벨트 상하차 원격 자동 콘베이어 컨베어 콘베어 벨트",
+    "image": "images/13655924834.jpg",
+    "url": "https://smartstore.naver.com/itstem123123/products/13655924834",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13655924834",
+    "coupang_url": "https://www.coupang.com/vp/products/9666467257?vendorItemId=95832447946",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "컨베이어벨트 상하차 원격 자동 콘베이어 컨베어 콘베어 벨트"
   }
 ];
