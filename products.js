@@ -293,5 +293,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "컨베이어벨트 상하차 원격 자동 콘베이어 컨베어 콘베어 벨트"
+  },
+  {
+    "internal_no": 24,
+    "smartstore_product_no": "13559052929",
+    "name": "오아시스 원형 꽃꽂이",
+    "image": "images/13559052929.png",
+    "url": "https://smartstore.naver.com/itstem123123/products/13559052929",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13559052929",
+    "coupang_url": "https://www.coupang.com/vp/products/9476629956?vendorItemId=94966643267",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "오아시스 원형 꽃꽂이"
   }
 ];
