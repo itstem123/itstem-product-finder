@@ -198,4 +198,33 @@ const DATA=Array.isArray(window.PRODUCTS)?window.PRODUCTS:[];const q=document.ge
 q.addEventListener('input',render);
 q.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();render();}});
 render();
-</script></body></html>
+</script>
+<!-- ITSTEM_COUPANG_PARTNERS_DISCLOSURE -->
+<style>
+  .itstem-coupang-disclosure {
+    box-sizing: border-box;
+    width: min(920px, calc(100% - 24px));
+    margin: 20px auto 28px;
+    padding: 13px 16px;
+    border: 2px solid #ff5a5f;
+    border-radius: 12px;
+    background: #fff;
+    color: #222;
+    font-size: 14px;
+    line-height: 1.55;
+    font-weight: 600;
+    text-align: center;
+  }
+  @media (max-width: 600px) {
+    .itstem-coupang-disclosure {
+      font-size: 13px;
+      padding: 11px 12px;
+    }
+  }
+</style>
+<div class="itstem-coupang-disclosure" role="note" aria-label="쿠팡 파트너스 고지">
+  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
+</div>
+<!-- /ITSTEM_COUPANG_PARTNERS_DISCLOSURE -->
+
+</body></html>
