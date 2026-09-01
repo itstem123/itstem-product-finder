@@ -146,8 +146,7 @@ window.PRODUCTS = [
     "url": "https://smartstore.naver.com/itstem123123/products/13559061019",
     "keywords": "오아시스 원형 꽃꽂이",
     "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13559061019",
-    "coupang_url": "https://www.coupang.com/vp/products/8544436194?itemId=24739526656&vendorItemId=91725093416&q=%EC%98%A4%EC%95%84%ED%8F%BC&searchId=c5b4a24f6674972&sourceType=search&itemsCount=60&searchRank=0&rank=0&traceId=mt40daih",
-    "market_display": "coupang_only",
+    "coupang_url": "https://link.coupang.com/a/gGitdXBQ4W",
     "show_smartstore": false,
     "show_coupang": true
   },
