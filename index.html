@@ -1,19 +1,7 @@
 
-<!-- ITSTEM_COUPANG_PARTNERS_DISCLOSURE -->
-<style>
-.itstem-coupang-disclosure {box-sizing:border-box;width:min(760px,calc(100% - 32px));margin:12px auto 18px;padding:10px 14px;border:1px solid rgba(0,0,0,.12);border-radius:10px;background:rgba(255,255,255,.72);color:#444;font-size:13px;line-height:1.5;font-weight:600;text-align:center;}
-@media (max-width:600px) {.itstem-coupang-disclosure {width:calc(100% - 24px);margin:10px auto 14px;padding:9px 10px;font-size:12px;}}
-</style>
-<div class="itstem-coupang-disclosure" role="note" aria-label="쿠팡 파트너스 고지">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</div>
-<!-- /ITSTEM_COUPANG_PARTNERS_DISCLOSURE -->
+
 \n
-<!-- ITSTEM_COUPANG_PARTNERS_DISCLOSURE -->
-<style>
-.itstem-coupang-disclosure {box-sizing:border-box;width:min(760px,calc(100% - 32px));margin:12px auto 18px;padding:10px 14px;border:1px solid rgba(0,0,0,.12);border-radius:10px;background:rgba(255,255,255,.72);color:#444;font-size:13px;line-height:1.5;font-weight:600;text-align:center;}
-@media (max-width:600px) {.itstem-coupang-disclosure {width:calc(100% - 24px);margin:10px auto 14px;padding:9px 10px;font-size:12px;}}
-</style>
-<div class="itstem-coupang-disclosure" role="note" aria-label="쿠팡 파트너스 고지">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</div>
-<!-- /ITSTEM_COUPANG_PARTNERS_DISCLOSURE -->
+
 \n<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>영상 속 상품찾기 | 잇즈템</title>
 <style>
 *{box-sizing:border-box}
@@ -193,7 +181,38 @@ h1{
   .badge{font-size:11px}
 }
 </style>
-</head><body><div class="wrap"><div class="hero"><div class="logo">잇즈템</div><h1>영상 속 상품찾기</h1><p>영상에 표시된 <b>상품번호</b>를 입력해 주세요.<br>상품명으로도 검색할 수 있어요.</p></div><div class="search"><input id="q" placeholder="예: 2번 또는 낚시 감기기"><button onclick="render()">검색</button><button onclick="q.value='';render()">지우기</button></div><div id="count" class="count"></div><div id="list"></div></div><script src="products.js"></script><script>
+</head><body><div class="wrap"><div class="hero"><div class="logo">잇즈템</div><h1>영상 속 상품찾기</h1>
+
+<!-- ITSTEM_COUPANG_PARTNERS_DISCLOSURE -->
+<style>
+.itstem-coupang-disclosure {
+    box-sizing: border-box;
+    width: min(760px, calc(100% - 32px));
+    margin: 12px auto 18px;
+    padding: 10px 14px;
+    border: 1px solid rgba(0,0,0,.14);
+    border-radius: 10px;
+    background: rgba(255,255,255,.78);
+    color: #333;
+    font-size: 13px;
+    line-height: 1.5;
+    font-weight: 600;
+    text-align: center;
+}
+@media (max-width:600px) {
+    .itstem-coupang-disclosure {
+        width: calc(100% - 24px);
+        margin: 10px auto 14px;
+        padding: 9px 10px;
+        font-size: 12px;
+    }
+}
+</style>
+<div class="itstem-coupang-disclosure" role="note" aria-label="쿠팡 파트너스 고지">
+  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
+</div>
+<!-- /ITSTEM_COUPANG_PARTNERS_DISCLOSURE -->
+<p>영상에 표시된 <b>상품번호</b>를 입력해 주세요.<br>상품명으로도 검색할 수 있어요.</p></div><div class="search"><input id="q" placeholder="예: 2번 또는 낚시 감기기"><button onclick="render()">검색</button><button onclick="q.value='';render()">지우기</button></div><div id="count" class="count"></div><div id="list"></div></div><script src="products.js"></script><script>
 const DATA=Array.isArray(window.PRODUCTS)?window.PRODUCTS:[];const q=document.getElementById('q'),list=document.getElementById('list'),count=document.getElementById('count');function n(s){return String(s||'').toLowerCase().trim()}function render(){
  const t=n(q.value);
  let rows=[];
@@ -215,32 +234,6 @@ q.addEventListener('input',render);
 q.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();render();}});
 render();
 </script>
-<!-- ITSTEM_COUPANG_PARTNERS_DISCLOSURE -->
-<style>
-  .itstem-coupang-disclosure {
-    box-sizing: border-box;
-    width: min(920px, calc(100% - 24px));
-    margin: 20px auto 28px;
-    padding: 13px 16px;
-    border: 2px solid #ff5a5f;
-    border-radius: 12px;
-    background: #fff;
-    color: #222;
-    font-size: 14px;
-    line-height: 1.55;
-    font-weight: 600;
-    text-align: center;
-  }
-  @media (max-width: 600px) {
-    .itstem-coupang-disclosure {
-      font-size: 13px;
-      padding: 11px 12px;
-    }
-  }
-</style>
-<div class="itstem-coupang-disclosure" role="note" aria-label="쿠팡 파트너스 고지">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</div>
-<!-- /ITSTEM_COUPANG_PARTNERS_DISCLOSURE -->
+
 
 </body></html>
