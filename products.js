@@ -131,7 +131,7 @@ window.PRODUCTS = [
     "name": "(소유형)LG클로이 서빙로봇 3세대 중고 특A급 식당 레스토랑 서브봇 주방 PC방",
     "image": "images/13081741078.png",
     "url": "https://smartstore.naver.com/itstem123123/products/13081741078",
-    "coupang_url": "",
+    "coupang_url": "https://www.coupang.com/vp/products/9374892520?vendorItemId=94787183276",
     "keywords": "(소유형)LG클로이 서빙로봇 3세대 중고 특A급 식당 레스토랑 서브봇 주방 PC방",
     "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13081741078",
     "market_display": "both",
