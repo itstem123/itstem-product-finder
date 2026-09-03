@@ -358,5 +358,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "EMS 허리벨트 마사지기 복부 근육 피로 운동기구 W5 오렌지 허리 1개"
+  },
+  {
+    "internal_no": 29,
+    "smartstore_product_no": "13726819830",
+    "name": "북유럽 스타일 원목 레코드 플레이어 진열장 수납 책장 스피커 보관함 업그레이드 딥 월넛 A",
+    "image": "images/13726819830.jpg",
+    "url": "https://smartstore.naver.com/itstem123123/products/13726819830",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13726819830",
+    "coupang_url": "https://www.coupang.com/vp/products/9699670502?vendorItemId=95943225055",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "북유럽 스타일 원목 레코드 플레이어 진열장 수납 책장 스피커 보관함 업그레이드 딥 월넛 A"
   }
 ];
