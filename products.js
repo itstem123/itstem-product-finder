@@ -319,5 +319,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "GX50 예초기 4행정 잡초 잔디제거 배낭식 다기능 배낭형 제초기 행정 1 수입 4단 엔진 헤드 + 1기 1야드 정품"
+  },
+  {
+    "internal_no": 26,
+    "smartstore_product_no": "13726818363",
+    "name": "전동 전정기 헤지트리머 대용량 고출력 원예 가지치기 앵글 그라인더 헤지 트리머(30cm)",
+    "image": "images/13726818363.jpg",
+    "url": "https://smartstore.naver.com/itstem123123/products/13726818363",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13726818363",
+    "coupang_url": "",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "전동 전정기 헤지트리머 대용량 고출력 원예 가지치기 앵글 그라인더 헤지 트리머(30cm)"
   }
 ];
