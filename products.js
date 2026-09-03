@@ -306,5 +306,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "오아시스 원형 꽃꽂이"
+  },
+  {
+    "internal_no": 25,
+    "smartstore_product_no": "13720634042",
+    "name": "GX50 예초기 4행정 잡초 잔디제거 배낭식 다기능 배낭형 제초기 행정 1 수입 4단 엔진 헤드 + 1기 1야드 정품",
+    "image": "images/13720634042.jpg",
+    "url": "https://smartstore.naver.com/itstem123123/products/13720634042",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13720634042",
+    "coupang_url": "",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "GX50 예초기 4행정 잡초 잔디제거 배낭식 다기능 배낭형 제초기 행정 1 수입 4단 엔진 헤드 + 1기 1야드 정품"
   }
 ];
