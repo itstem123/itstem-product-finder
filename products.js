@@ -332,5 +332,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "전동 전정기 헤지트리머 대용량 고출력 원예 가지치기 앵글 그라인더 헤지 트리머(30cm)"
+  },
+  {
+    "internal_no": 27,
+    "smartstore_product_no": "13726818711",
+    "name": "산업용 이동식 계단 발판 창고 슈퍼마켓 가정용 두꺼운 (46너비 70높이) 바퀴 있는 3단",
+    "image": "images/13726818711.jpg",
+    "url": "https://smartstore.naver.com/itstem123123/products/13726818711",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13726818711",
+    "coupang_url": "",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "산업용 이동식 계단 발판 창고 슈퍼마켓 가정용 두꺼운 (46너비 70높이) 바퀴 있는 3단"
   }
 ];
