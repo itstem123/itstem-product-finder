@@ -34,8 +34,8 @@ window.PRODUCTS = [
     "keywords": "서버랙 벽걸이형 네트워크 랙 4 U 디럭스 530x400x240 벽걸이형 바닥형",
     "coupang_url": "",
     "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13700268351",
-    "market_display": "both",
-    "show_smartstore": true,
+    "market_display": "coupang_only",
+    "show_smartstore": false,
     "show_coupang": true
   },
   {
