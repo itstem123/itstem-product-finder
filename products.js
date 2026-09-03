@@ -345,5 +345,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "산업용 이동식 계단 발판 창고 슈퍼마켓 가정용 두꺼운 (46너비 70높이) 바퀴 있는 3단"
+  },
+  {
+    "internal_no": 28,
+    "smartstore_product_no": "13726819092",
+    "name": "EMS 허리벨트 마사지기 복부 근육 피로 운동기구 W5 오렌지 허리 1개",
+    "image": "images/13726819092.jpg",
+    "url": "https://smartstore.naver.com/itstem123123/products/13726819092",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13726819092",
+    "coupang_url": "",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "EMS 허리벨트 마사지기 복부 근육 피로 운동기구 W5 오렌지 허리 1개"
   }
 ];
