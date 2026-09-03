@@ -236,6 +236,9 @@ h1{
 
 
 
+
+
+
 <p>영상에 표시된 <b>상품번호</b>를 입력해 주세요.<br>상품명으로도 검색할 수 있어요.</p></div><div class="search"><input id="q" placeholder="예: 2번 또는 낚시 감기기"><button onclick="render()">검색</button><button onclick="q.value='';render()">지우기</button></div><div id="count" class="count"></div><div id="list"></div></div><script src="products.js"></script><script>
 const DATA=Array.isArray(window.PRODUCTS)?window.PRODUCTS:[];const q=document.getElementById('q'),list=document.getElementById('list'),count=document.getElementById('count');function n(s){return String(s||'').toLowerCase().trim()}function render(){
  const t=n(q.value);
