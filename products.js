@@ -371,5 +371,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "북유럽 스타일 원목 레코드 플레이어 진열장 수납 책장 스피커 보관함 업그레이드 딥 월넛 A"
+  },
+  {
+    "internal_no": 30,
+    "smartstore_product_no": "13500691662",
+    "name": "땅콩탈곡기 껍질 까는기계 모델 모터 탈피기 자동",
+    "image": "images/13500691662.png",
+    "url": "https://smartstore.naver.com/okjg_10/products/13500691662",
+    "smartstore_url": "https://smartstore.naver.com/okjg_10/products/13500691662",
+    "coupang_url": "",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false,
+    "keywords": "땅콩탈곡기 껍질 까는기계 모델 모터 탈피기 자동"
   }
 ];
