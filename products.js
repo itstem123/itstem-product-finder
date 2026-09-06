@@ -756,11 +756,7 @@ window.PRODUCTS = [
     "name": "가레지작기 유압잭 더블펌프 차량용 차량 정비 자키",
     "image": "images/13356752943.jpg",
     "url": "https://smartstore.naver.com/okjg_10/products/13356752943",
-    "smartstore_url": "https://smartstore.naver.com/okjg_10/products/13356752943",
     "coupang_url": "",
-    "market_display": "smartstore_only",
-    "show_smartstore": true,
-    "show_coupang": false,
     "keywords": "가레지작기 유압잭 더블펌프 차량용 차량 정비 자키"
   }
 ];
