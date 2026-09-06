@@ -749,5 +749,14 @@ window.PRODUCTS = [
     "url": "https://smartstore.naver.com/itstem123123/products/13500691662",
     "coupang_url": "",
     "keywords": "땅콩탈곡기 껍질 까는기계 모델 모터 탈피기 자동"
+  },
+  {
+    "internal_no": 85,
+    "smartstore_product_no": "13356752943",
+    "name": "가레지작기 유압잭 더블펌프 차량용 차량 정비 자키",
+    "image": "images/13356752943.jpg",
+    "url": "https://smartstore.naver.com/itstem123123/products/13356752943",
+    "coupang_url": "",
+    "keywords": "가레지작기 유압잭 더블펌프 차량용 차량 정비 자키"
   }
 ];
