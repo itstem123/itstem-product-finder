@@ -94,7 +94,7 @@ window.PRODUCTS = [
     "smartstore_product_no": "13081741078",
     "name": "(소유형)LG클로이 서빙로봇 3세대 중고 특A급 식당 레스토랑 서브봇 주방 PC방",
     "image": "images/13081741078.png",
-    "url": "https://smartstore.naver.com/itstem123123/products/13081741078",
+    "url": "https://smartstore.naver.com/ocean03/products/13081741078",
     "coupang_url": "https://link.coupang.com/a/gGEXUQILMO",
     "keywords": "(소유형)LG클로이 서빙로봇 3세대 중고 특A급 식당 레스토랑 서브봇 주방 PC방"
   },
@@ -215,7 +215,7 @@ window.PRODUCTS = [
     "smartstore_product_no": "13559052929",
     "name": "오아시스 원형 꽃꽂이",
     "image": "images/13559052929.png",
-    "url": "https://smartstore.naver.com/itstem123123/products/13559052929",
+    "url": "https://smartstore.naver.com/itsfy123123/products/13559052929",
     "coupang_url": "https://www.coupang.com/vp/products/9476629956?vendorItemId=94966643267",
     "keywords": "오아시스 원형 꽃꽂이"
   },
@@ -746,7 +746,7 @@ window.PRODUCTS = [
     "smartstore_product_no": "13500691662",
     "name": "땅콩탈곡기 껍질 까는기계 모델 모터 탈피기 자동",
     "image": "images/13500691662.png",
-    "url": "https://smartstore.naver.com/itstem123123/products/13500691662",
+    "url": "https://smartstore.naver.com/okjg_10/products/13500691662",
     "coupang_url": "",
     "keywords": "땅콩탈곡기 껍질 까는기계 모델 모터 탈피기 자동"
   },
@@ -757,6 +757,6 @@ window.PRODUCTS = [
     "image": "images/13356752943.jpg",
     "url": "https://smartstore.naver.com/okjg_10/products/13356752943",
     "coupang_url": "",
-    "keywords": "가레지작기 유압잭 더블펌프 차량용 차량 정비 자키"
+    "keywords": "가레지작기 5톤 유압잭 더블펌프 차량용 차량 정비 자키"
   }
 ];
