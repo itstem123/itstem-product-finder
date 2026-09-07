@@ -210,7 +210,11 @@ window.PRODUCTS = [
     "image": "images/13729558885.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729558885",
     "coupang_url": "https://www.coupang.com/vp/products/9702570224?vendorItemId=95952918145",
-    "keywords": "스테인리스 자흡펌프 내산 내알칼리 화공펌프 방폭 원심펌프 304 셀프프라이밍 25WBZ4110.37KW 220V 단상"
+    "keywords": "스테인리스 자흡펌프 내산 내알칼리 화공펌프 방폭 원심펌프 304 셀프프라이밍 25WBZ4110.37KW 220V 단상",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729558885",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 22,
