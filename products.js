@@ -171,7 +171,11 @@ window.PRODUCTS = [
     "image": "images/13729558112.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729558112",
     "coupang_url": "",
-    "keywords": "세탁기 건조기 통돌이 높이조절 받침대 방진 탄소강 40x40x40 두꺼운 블랙 1세트"
+    "keywords": "세탁기 건조기 통돌이 높이조절 받침대 방진 탄소강 40x40x40 두꺼운 블랙 1세트",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729558112",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 19,
