@@ -223,7 +223,11 @@ window.PRODUCTS = [
     "image": "images/13729559181.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729559181",
     "coupang_url": "",
-    "keywords": "유압 냉각기 기계식 쿨러 차량용 오일탱크 시스템 AH1012T-100L(12V_24V)"
+    "keywords": "유압 냉각기 기계식 쿨러 차량용 오일탱크 시스템 AH1012T-100L(12V_24V)",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729559181",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 23,
