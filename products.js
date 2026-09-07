@@ -184,7 +184,11 @@ window.PRODUCTS = [
     "image": "images/13729558323.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729558323",
     "coupang_url": "",
-    "keywords": "상업용 다층 수납 슈퍼마켓 진열대 강력 하중 스탠드 4단 120cm 블루 메인 프레임 기본 80x40cm 300kg"
+    "keywords": "상업용 다층 수납 슈퍼마켓 진열대 강력 하중 스탠드 4단 120cm 블루 메인 프레임 기본 80x40cm 300kg",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729558323",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 20,
