@@ -260,7 +260,11 @@ window.PRODUCTS = [
     "image": "images/13726818711.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13726818711",
     "coupang_url": "",
-    "keywords": "산업용 이동식 계단 발판 창고 슈퍼마켓 가정용 두꺼운 (46너비 70높이) 바퀴 있는 3단"
+    "keywords": "산업용 이동식 계단 발판 창고 슈퍼마켓 가정용 두꺼운 (46너비 70높이) 바퀴 있는 3단",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13726818711",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 28,
