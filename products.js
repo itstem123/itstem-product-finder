@@ -158,7 +158,11 @@ window.PRODUCTS = [
     "image": "images/13729557848.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729557848",
     "coupang_url": "https://www.coupang.com/vp/products/9702568927?vendorItemId=95952914279",
-    "keywords": "가정용 소형 레드와인 선반 원목 진열장 바용 와인 보관 인테리어 티 4단 52길이"
+    "keywords": "가정용 소형 레드와인 선반 원목 진열장 바용 와인 보관 인테리어 티 4단 52길이",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729557848",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 18,
