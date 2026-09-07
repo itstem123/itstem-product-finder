@@ -269,6 +269,19 @@ window.PRODUCTS = [
     "keywords": "북유럽 스타일 원목 레코드 플레이어 진열장 수납 책장 스피커 보관함 업그레이드 딥 월넛 A"
   },
   {
+    "internal_no": 30,
+    "smartstore_product_no": "13500691662",
+    "name": "땅콩탈곡기 껍질 까는기계 모델 모터 탈피기 자동",
+    "image": "images/13500691662.png",
+    "url": "https://smartstore.naver.com/okjg_10/products/13500691662",
+    "coupang_url": "",
+    "keywords": "땅콩탈곡기 껍질 까는기계 모델 모터 탈피기 자동",
+    "smartstore_url": "https://smartstore.naver.com/okjg_10/products/13500691662",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
+  },
+  {
     "internal_no": 31,
     "smartstore_product_no": "13726818867",
     "name": "화물차 시스템 버스 트럭 고화질 야간용 카메라 5 강화 카메라 10m",
@@ -744,15 +757,6 @@ window.PRODUCTS = [
     "url": "https://smartstore.naver.com/itstem123123/products/13729283607",
     "coupang_url": "",
     "keywords": "대형 가방 대용량 전기 작업용 수납 정리함 튼튼한 휴대용 전문가용 마스터 에디션"
-  },
-  {
-    "internal_no": 84,
-    "smartstore_product_no": "13500691662",
-    "name": "땅콩탈곡기 껍질 까는기계 모델 모터 탈피기 자동",
-    "image": "images/13500691662.png",
-    "url": "https://smartstore.naver.com/itstem123123/products/13500691662",
-    "coupang_url": "",
-    "keywords": "땅콩탈곡기 껍질 까는기계 모델 모터 탈피기 자동"
   },
   {
     "internal_no": 85,
