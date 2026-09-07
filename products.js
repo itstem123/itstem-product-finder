@@ -1022,5 +1022,57 @@ window.PRODUCTS = [
     "market_display": "smartstore_only",
     "show_smartstore": true,
     "show_coupang": false
+  },
+  {
+    "internal_no": 86,
+    "smartstore_product_no": "12667609600",
+    "name": "농약 호스 압착기 고압 수도관 펜치 패럴 파이프 출력 프레스 버클",
+    "image": "images/12667609600.jpg",
+    "url": "https://smartstore.naver.com/okjg_10/products/12667609600",
+    "coupang_url": "",
+    "keywords": "농약 호스 압착기 고압 수도관 펜치 패럴 파이프 출력 프레스 버클",
+    "smartstore_url": "https://smartstore.naver.com/okjg_10/products/12667609600",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
+  },
+  {
+    "internal_no": 87,
+    "smartstore_product_no": "12667788597",
+    "name": "이동식 울타리 안전 가드레일 접이식 펜스 주차장 바리게이트",
+    "image": "images/12667788597.png",
+    "url": "https://smartstore.naver.com/okjg_10/products/12667788597",
+    "coupang_url": "",
+    "keywords": "이동식 울타리 안전 가드레일 접이식 펜스 주차장 바리게이트",
+    "smartstore_url": "https://smartstore.naver.com/okjg_10/products/12667788597",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
+  },
+  {
+    "internal_no": 88,
+    "smartstore_product_no": "13500479515",
+    "name": "주짓수 도복 무도복 쇼요롤 타오 쇼군 주짓수도복 토르",
+    "image": "images/13500479515.jpg",
+    "url": "https://smartstore.naver.com/okjg_10/products/13500479515",
+    "coupang_url": "",
+    "keywords": "주짓수 도복 무도복 쇼요롤 타오 쇼군 주짓수도복 토르",
+    "smartstore_url": "https://smartstore.naver.com/okjg_10/products/13500479515",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
+  },
+  {
+    "internal_no": 89,
+    "smartstore_product_no": "12667850411",
+    "name": "간의탈의실 이동식 조립식 피팅룸 옷가게피팅룸 퍼플 가림막",
+    "image": "images/12667850411.png",
+    "url": "https://smartstore.naver.com/okjg_10/products/12667850411",
+    "coupang_url": "",
+    "keywords": "간의탈의실 이동식 조립식 피팅룸 옷가게피팅룸 퍼플 가림막",
+    "smartstore_url": "https://smartstore.naver.com/okjg_10/products/12667850411",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   }
 ];
