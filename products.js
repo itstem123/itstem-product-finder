@@ -788,5 +788,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "이동식 울타리 안전 가드레일 접이식 펜스 주차장 바리게이트"
+  },
+  {
+    "internal_no": 88,
+    "smartstore_product_no": "12667850411",
+    "name": "간의탈의실 이동식 조립식 피팅룸 옷가게피팅룸 퍼플 가림막",
+    "image": "images/12667850411.png",
+    "url": "https://smartstore.naver.com/okjg_10/products/12667850411",
+    "smartstore_url": "https://smartstore.naver.com/okjg_10/products/12667850411",
+    "coupang_url": "",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "간의탈의실 이동식 조립식 피팅룸 옷가게피팅룸 퍼플 가림막"
   }
 ];
