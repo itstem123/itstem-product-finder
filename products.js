@@ -344,8 +344,12 @@ window.PRODUCTS = [
     "name": "업소용 닭털 제거기계 자동 제모기 세척 처리장비 분무형 전동 깃털 탈모기 [알루미늄 코어] 50 + 분무기",
     "image": "images/13730509311.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13730509311",
-    "coupang_url": "",
-    "keywords": "업소용 닭털 제거기계 자동 제모기 세척 처리장비 분무형 전동 깃털 탈모기 [알루미늄 코어] 50 + 분무기"
+    "coupang_url": "https://www.coupang.com/vp/products/9703550705?vendorItemId=95956336077",
+    "keywords": "업소용 닭털 제거기계 자동 제모기 세척 처리장비 분무형 전동 깃털 탈모기 [알루미늄 코어] 50 + 분무기",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13730509311",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 33,
