@@ -234,7 +234,11 @@ window.PRODUCTS = [
     "image": "images/13720634042.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13720634042",
     "coupang_url": "",
-    "keywords": "GX50 예초기 4행정 잡초 잔디제거 배낭식 다기능 배낭형 제초기 행정 1 수입 4단 엔진 헤드 + 1기 1야드 정품"
+    "keywords": "GX50 예초기 4행정 잡초 잔디제거 배낭식 다기능 배낭형 제초기 행정 1 수입 4단 엔진 헤드 + 1기 1야드 정품",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13720634042",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 26,
