@@ -212,7 +212,11 @@ window.PRODUCTS = [
     "image": "images/13655924834.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13655924834",
     "coupang_url": "https://www.coupang.com/vp/products/9666467257?vendorItemId=95832447946",
-    "keywords": "컨베이어벨트 상하차 원격 자동 콘베이어 컨베어 콘베어 벨트"
+    "keywords": "컨베이어벨트 상하차 원격 자동 콘베이어 컨베어 콘베어 벨트",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13655924834",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 24,
