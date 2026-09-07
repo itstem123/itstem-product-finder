@@ -6,7 +6,11 @@ window.PRODUCTS = [
     "image": "images/13685511894.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13685511894",
     "coupang_url": "https://www.coupang.com/vp/products/9507861465?vendorItemId=95845603087",
-    "keywords": "업소용 스텐 주방 조리대 선반 식당 테이블 60x40x80 2단 1인당 1개 한정"
+    "keywords": "업소용 스텐 주방 조리대 선반 식당 테이블 60x40x80 2단 1인당 1개 한정",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13685511894",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 2,
@@ -15,7 +19,11 @@ window.PRODUCTS = [
     "image": "images/13700267842.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13700267842",
     "coupang_url": "https://www.coupang.com/vp/products/9682000816?vendorItemId=95882965635",
-    "keywords": "낚시 릴 감기기 라인 와인더 감기 도구 릴줄 정리 용품 업그레이드 세트 [미터 카운터 포함]"
+    "keywords": "낚시 릴 감기기 라인 와인더 감기 도구 릴줄 정리 용품 업그레이드 세트 [미터 카운터 포함]",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13700267842",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 3,
@@ -24,7 +32,11 @@ window.PRODUCTS = [
     "image": "images/13700268351.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13700268351",
     "coupang_url": "",
-    "keywords": "서버랙 벽걸이형 네트워크 랙 4 U 디럭스 530x400x240 벽걸이형 바닥형"
+    "keywords": "서버랙 벽걸이형 네트워크 랙 4 U 디럭스 530x400x240 벽걸이형 바닥형",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13700268351",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 4,
@@ -33,7 +45,11 @@ window.PRODUCTS = [
     "image": "images/13701069188.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13701069188",
     "coupang_url": "https://www.coupang.com/vp/products/9682602664?vendorItemId=95884910628",
-    "keywords": "윤활유 내마모 테스트기 연료 기름 구리스 공업소 280W 디지털"
+    "keywords": "윤활유 내마모 테스트기 연료 기름 구리스 공업소 280W 디지털",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13701069188",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 5,
@@ -42,7 +58,11 @@ window.PRODUCTS = [
     "image": "images/13701070024.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13701070024",
     "coupang_url": "",
-    "keywords": "야외 베란다 철제 방수 청소도구 정리함"
+    "keywords": "야외 베란다 철제 방수 청소도구 정리함",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13701070024",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 6,
@@ -51,7 +71,11 @@ window.PRODUCTS = [
     "image": "images/13701070612.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13701070612",
     "coupang_url": "",
-    "keywords": "야외 테라스 정원 테이블 세트 플라스틱 우드 휴게 공간용"
+    "keywords": "야외 테라스 정원 테이블 세트 플라스틱 우드 휴게 공간용",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13701070612",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 7,
@@ -60,7 +84,11 @@ window.PRODUCTS = [
     "image": "images/13702375692.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13702375692",
     "coupang_url": "https://link.coupang.com/a/gGHvBM43Yi",
-    "keywords": "산업용 미스트 선풍기 가습 냉풍기 강력 수냉식 업소용 야외용"
+    "keywords": "산업용 미스트 선풍기 가습 냉풍기 강력 수냉식 업소용 야외용",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13702375692",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 8,
@@ -69,7 +97,11 @@ window.PRODUCTS = [
     "image": "images/13707333359.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13707333359",
     "coupang_url": "",
-    "keywords": "플라스틱 대형 직사각형 수납함 뚜껑 포함 물류용 박스 755 박스 [815x570x505 mm] 옐로우 뚜껑 없음"
+    "keywords": "플라스틱 대형 직사각형 수납함 뚜껑 포함 물류용 박스 755 박스 [815x570x505 mm] 옐로우 뚜껑 없음",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13707333359",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 9,
@@ -78,7 +110,11 @@ window.PRODUCTS = [
     "image": "images/13720636322.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13720636322",
     "keywords": "회전 서가 원형 흰색 선반 슬라이딩 회전책장 잡지 공간분리 원목업그레이드카멜 3단 확대 배송입",
-    "coupang_url": ""
+    "coupang_url": "",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13720636322",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 10,
@@ -87,7 +123,11 @@ window.PRODUCTS = [
     "image": "images/13720639918.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13720639918",
     "coupang_url": "",
-    "keywords": "업소용 닭털 제거기계 자동 제모기 세척 처리장비 분무형 전동 깃털 탈모기 40L스탠다드핏 탈비둘기 탈계불가"
+    "keywords": "업소용 닭털 제거기계 자동 제모기 세척 처리장비 분무형 전동 깃털 탈모기 40L스탠다드핏 탈비둘기 탈계불가",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13720639918",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 11,
@@ -96,7 +136,11 @@ window.PRODUCTS = [
     "image": "images/13081741078.png",
     "url": "https://smartstore.naver.com/ocean03/products/13081741078",
     "coupang_url": "https://link.coupang.com/a/gGEXUQILMO",
-    "keywords": "(소유형)LG클로이 서빙로봇 3세대 중고 특A급 식당 레스토랑 서브봇 주방 PC방"
+    "keywords": "(소유형)LG클로이 서빙로봇 3세대 중고 특A급 식당 레스토랑 서브봇 주방 PC방",
+    "smartstore_url": "https://smartstore.naver.com/ocean03/products/13081741078",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 12,
@@ -208,7 +252,11 @@ window.PRODUCTS = [
     "image": "images/13655924834.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13655924834",
     "coupang_url": "https://www.coupang.com/vp/products/9666467257?vendorItemId=95832447946",
-    "keywords": "컨베이어벨트 상하차 원격 자동 콘베이어 컨베어 콘베어 벨트"
+    "keywords": "컨베이어벨트 상하차 원격 자동 콘베이어 컨베어 콘베어 벨트",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13655924834",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 24,
@@ -217,7 +265,11 @@ window.PRODUCTS = [
     "image": "images/13559052929.png",
     "url": "https://smartstore.naver.com/itsfy123123/products/13559052929",
     "coupang_url": "https://www.coupang.com/vp/products/9476629956?vendorItemId=94966643267",
-    "keywords": "오아시스 원형 꽃꽂이"
+    "keywords": "오아시스 원형 꽃꽂이",
+    "smartstore_url": "https://smartstore.naver.com/itsfy123123/products/13559052929",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 25,
@@ -289,7 +341,11 @@ window.PRODUCTS = [
     "image": "images/13729556827.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729556827",
     "coupang_url": "",
-    "keywords": "산업용 냉각수 순환기 CW3000 냉각기 워터탱크 HS3000(레이저용)"
+    "keywords": "산업용 냉각수 순환기 CW3000 냉각기 워터탱크 HS3000(레이저용)",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729556827",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 34,
@@ -298,7 +354,11 @@ window.PRODUCTS = [
     "image": "images/13729556464.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729556464",
     "coupang_url": "",
-    "keywords": "이동식 철망 펜스 창고 공장 분리망 격리망 공간분리 가림막 두꺼워진 0.96mx1.7m"
+    "keywords": "이동식 철망 펜스 창고 공장 분리망 격리망 공간분리 가림막 두꺼워진 0.96mx1.7m",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729556464",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 35,
@@ -307,7 +367,11 @@ window.PRODUCTS = [
     "image": "images/13729555922.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729555922",
     "coupang_url": "",
-    "keywords": "실내 암벽등반 놀이터 클라이밍 레진 암벽 타기 대형 10개 (클라이밍 보드용)"
+    "keywords": "실내 암벽등반 놀이터 클라이밍 레진 암벽 타기 대형 10개 (클라이밍 보드용)",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729555922",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 36,
@@ -316,7 +380,11 @@ window.PRODUCTS = [
     "image": "images/13729555741.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729555741",
     "coupang_url": "",
-    "keywords": "회전 LED 천장 팬 조명 우주인 전용 전광 스펙트럼 [업그레이드] 9207 우주인 무단계 조광"
+    "keywords": "회전 LED 천장 팬 조명 우주인 전용 전광 스펙트럼 [업그레이드] 9207 우주인 무단계 조광",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729555741",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 37,
@@ -325,7 +393,11 @@ window.PRODUCTS = [
     "image": "images/13729555405.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729555405",
     "coupang_url": "",
-    "keywords": "우주비행사 천장조명 침실용 스마트 음성제어 조용한 팬 조명 우주인"
+    "keywords": "우주비행사 천장조명 침실용 스마트 음성제어 조용한 팬 조명 우주인",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729555405",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 38,
@@ -334,7 +406,11 @@ window.PRODUCTS = [
     "image": "images/13729555085.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729555085",
     "coupang_url": "",
-    "keywords": "장화걸이대 신발 수납장 신발장 정리 선반 현관 100x40x90 cm 22켤레"
+    "keywords": "장화걸이대 신발 수납장 신발장 정리 선반 현관 100x40x90 cm 22켤레",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729555085",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 39,
@@ -343,7 +419,11 @@ window.PRODUCTS = [
     "image": "images/13729554887.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729554887",
     "coupang_url": "",
-    "keywords": "QLH 점착제 자동 점착기 정밀 압력 드립 기계 1L"
+    "keywords": "QLH 점착제 자동 점착기 정밀 압력 드립 기계 1L",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729554887",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 40,
@@ -352,7 +432,11 @@ window.PRODUCTS = [
     "image": "images/13729554635.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729554635",
     "coupang_url": "",
-    "keywords": "충전식 LED 초강력 야간 낚시 해루질 캠핑용 3228 스탠다드 에디션"
+    "keywords": "충전식 LED 초강력 야간 낚시 해루질 캠핑용 3228 스탠다드 에디션",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729554635",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 41,
@@ -361,7 +445,11 @@ window.PRODUCTS = [
     "image": "images/13729554521.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729554521",
     "coupang_url": "",
-    "keywords": "라탄 이동식 스탠드 옷걸이 행거 거실 침실용 수납 옷장 평평한 머리 ( 60 170) 베이지화이트"
+    "keywords": "라탄 이동식 스탠드 옷걸이 행거 거실 침실용 수납 옷장 평평한 머리 ( 60 170) 베이지화이트",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729554521",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 42,
@@ -370,7 +458,11 @@ window.PRODUCTS = [
     "image": "images/13729554206.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729554206",
     "coupang_url": "",
-    "keywords": "이동식 접이식 플리마켓 노점 야시장 판매대 행사용 매대 레드 레드 A 120x60x200 표준"
+    "keywords": "이동식 접이식 플리마켓 노점 야시장 판매대 행사용 매대 레드 레드 A 120x60x200 표준",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729554206",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 43,
@@ -379,7 +471,11 @@ window.PRODUCTS = [
     "image": "images/13729552612.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729552612",
     "coupang_url": "",
-    "keywords": "실험실 산업용 고온 소형 전기 온도조절 건조기 의료용 25x25x25 송풍기 없음 202-0 B"
+    "keywords": "실험실 산업용 고온 소형 전기 온도조절 건조기 의료용 25x25x25 송풍기 없음 202-0 B",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729552612",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 44,
@@ -388,7 +484,11 @@ window.PRODUCTS = [
     "image": "images/13729552085.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729552085",
     "coupang_url": "",
-    "keywords": "고정밀 자동 디지털 멀티미터 전기 테스터 전자펜 다기능 전기공사 수리 배터리 모델 A1(실리콘 케이스 포함 랜덤)"
+    "keywords": "고정밀 자동 디지털 멀티미터 전기 테스터 전자펜 다기능 전기공사 수리 배터리 모델 A1(실리콘 케이스 포함 랜덤)",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729552085",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 45,
@@ -397,7 +497,11 @@ window.PRODUCTS = [
     "image": "images/13729551865.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729551865",
     "coupang_url": "",
-    "keywords": "접이식 무소음 손수레 평판 운반카트 가정용 휴대용 소형 대차 60x45 특가 봉투 열기 바로 사용 100kg 비저소음"
+    "keywords": "접이식 무소음 손수레 평판 운반카트 가정용 휴대용 소형 대차 60x45 특가 봉투 열기 바로 사용 100kg 비저소음",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729551865",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 46,
@@ -406,7 +510,11 @@ window.PRODUCTS = [
     "image": "images/13729343535.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729343535",
     "coupang_url": "",
-    "keywords": "이동식 연단 발표대 교실 회의실 강의 연설대 소형 테이블 메이플 3 [높이 조절 이동식 서랍 수납]"
+    "keywords": "이동식 연단 발표대 교실 회의실 강의 연설대 소형 테이블 메이플 3 [높이 조절 이동식 서랍 수납]",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729343535",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 47,
@@ -415,7 +523,11 @@ window.PRODUCTS = [
     "image": "images/13729343274.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729343274",
     "coupang_url": "",
-    "keywords": "야외 차양막 두꺼운 플라워 식물용 그늘막 정원 베란다 수영장용 폭 2m 길이 3m (직사각형)"
+    "keywords": "야외 차양막 두꺼운 플라워 식물용 그늘막 정원 베란다 수영장용 폭 2m 길이 3m (직사각형)",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729343274",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 48,
@@ -424,7 +536,11 @@ window.PRODUCTS = [
     "image": "images/13729343019.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729343019",
     "coupang_url": "",
-    "keywords": "충전식 전동 전지가위 헤지트리머 정원 가지치기 원예 관리 산업용 39900m Ah 1개 1개 더블"
+    "keywords": "충전식 전동 전지가위 헤지트리머 정원 가지치기 원예 관리 산업용 39900m Ah 1개 1개 더블",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729343019",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 49,
@@ -433,7 +549,11 @@ window.PRODUCTS = [
     "image": "images/13729342763.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729342763",
     "coupang_url": "",
-    "keywords": "이중 방진 정리함 테이블 수납 선반 컵홀더 정리대 대형 코스믹블랙 단일 선반"
+    "keywords": "이중 방진 정리함 테이블 수납 선반 컵홀더 정리대 대형 코스믹블랙 단일 선반",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729342763",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 50,
@@ -442,7 +562,11 @@ window.PRODUCTS = [
     "image": "images/13729342498.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729342498",
     "coupang_url": "",
-    "keywords": "이산화탄소 CO2 공기질 측정기 온습도 센서 PM2.5 포름알데히드 감지 블랙 3 in 1 반도체 CO2 온습도"
+    "keywords": "이산화탄소 CO2 공기질 측정기 온습도 센서 PM2.5 포름알데히드 감지 블랙 3 in 1 반도체 CO2 온습도",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729342498",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 51,
@@ -451,7 +575,11 @@ window.PRODUCTS = [
     "image": "images/13729342285.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729342285",
     "coupang_url": "",
-    "keywords": "자동차 덴트 복원기 무흔 수리기 에어 흡착기 판금 복구기 공압식 판금 인발 해머+흡착컵 3개 대 중 소 +테프론 테이"
+    "keywords": "자동차 덴트 복원기 무흔 수리기 에어 흡착기 판금 복구기 공압식 판금 인발 해머+흡착컵 3개 대 중 소 +테프론 테이",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729342285",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 52,
@@ -460,7 +588,11 @@ window.PRODUCTS = [
     "image": "images/13729342123.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729342123",
     "coupang_url": "",
-    "keywords": "접이식 수영장 물놀이 풀장 대형 가정용 실외 2.1m 아이스 아일랜드 강 입문형 A"
+    "keywords": "접이식 수영장 물놀이 풀장 대형 가정용 실외 2.1m 아이스 아일랜드 강 입문형 A",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729342123",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 53,
@@ -469,7 +601,11 @@ window.PRODUCTS = [
     "image": "images/13729341359.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729341359",
     "coupang_url": "",
-    "keywords": "산업용 방폭 건식 습식 흡입 오일 철분 먼지 청소 V-500 포함"
+    "keywords": "산업용 방폭 건식 습식 흡입 오일 철분 먼지 청소 V-500 포함",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729341359",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 54,
@@ -478,7 +614,11 @@ window.PRODUCTS = [
     "image": "images/13729341199.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729341199",
     "coupang_url": "",
-    "keywords": "에어백 공압식 자키 차량용 정비 공기주입식 리프트 3t 화이트 사각 접이식 손잡이 표준형"
+    "keywords": "에어백 공압식 자키 차량용 정비 공기주입식 리프트 3t 화이트 사각 접이식 손잡이 표준형",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729341199",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 55,
@@ -487,7 +627,11 @@ window.PRODUCTS = [
     "image": "images/13729340813.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729340813",
     "coupang_url": "",
-    "keywords": "라디오헤드 락밴드 순면 커플 반팔티 남녀공용 B1 S"
+    "keywords": "라디오헤드 락밴드 순면 커플 반팔티 남녀공용 B1 S",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729340813",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 56,
@@ -496,7 +640,11 @@ window.PRODUCTS = [
     "image": "images/13729340658.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729340658",
     "coupang_url": "",
-    "keywords": "산업용 PE 흡유 흡수 방수 미끄럼방지 대형 바닥 카펫 작업장 90cm x 30m x 3mm 롤당"
+    "keywords": "산업용 PE 흡유 흡수 방수 미끄럼방지 대형 바닥 카펫 작업장 90cm x 30m x 3mm 롤당",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729340658",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 57,
@@ -505,7 +653,11 @@ window.PRODUCTS = [
     "image": "images/13729340402.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729340402",
     "coupang_url": "",
-    "keywords": "가정용 오존발생기 음이온 소독기 탈취기 차량용 살균기 포름알데히드 제거 220V 30g 블랙 탈취"
+    "keywords": "가정용 오존발생기 음이온 소독기 탈취기 차량용 살균기 포름알데히드 제거 220V 30g 블랙 탈취",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729340402",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 58,
@@ -514,7 +666,11 @@ window.PRODUCTS = [
     "image": "images/13729339911.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729339911",
     "coupang_url": "",
-    "keywords": "북유럽 수제 태피스트리 벽걸이 보헤미안 거실 침실 장식 스타일 B 55x70cm 면 직물 완제품"
+    "keywords": "북유럽 수제 태피스트리 벽걸이 보헤미안 거실 침실 장식 스타일 B 55x70cm 면 직물 완제품",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729339911",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 59,
@@ -523,7 +679,11 @@ window.PRODUCTS = [
     "image": "images/13729339468.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729339468",
     "coupang_url": "",
-    "keywords": "전동 교반기 소형 스테인리스 정밀 혼합기 수치 표시 노브 SR JB 90 90W 5000m Pas"
+    "keywords": "전동 교반기 소형 스테인리스 정밀 혼합기 수치 표시 노브 SR JB 90 90W 5000m Pas",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729339468",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 60,
@@ -532,7 +692,11 @@ window.PRODUCTS = [
     "image": "images/13729335135.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729335135",
     "coupang_url": "",
-    "keywords": "가정용 소형 전동 전기톱 목공 나무 절단 합금 대용량 고출력 대형 중장비(없음)"
+    "keywords": "가정용 소형 전동 전기톱 목공 나무 절단 합금 대용량 고출력 대형 중장비(없음)",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729335135",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 61,
@@ -541,7 +705,11 @@ window.PRODUCTS = [
     "image": "images/13729334904.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729334904",
     "coupang_url": "",
-    "keywords": "원목 회전책장 어린이 다층 수납장 거실 선반 폭 46cm 3칸 98cm 월넛"
+    "keywords": "원목 회전책장 어린이 다층 수납장 거실 선반 폭 46cm 3칸 98cm 월넛",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729334904",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 62,
@@ -550,7 +718,11 @@ window.PRODUCTS = [
     "image": "images/13729334530.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729334530",
     "coupang_url": "",
-    "keywords": "수동 풀러 해머 M3 M30 나사 탈착 P400AB 중량형 P 400 A M3 M12"
+    "keywords": "수동 풀러 해머 M3 M30 나사 탈착 P400AB 중량형 P 400 A M3 M12",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729334530",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 63,
@@ -559,7 +731,11 @@ window.PRODUCTS = [
     "image": "images/13729334251.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729334251",
     "coupang_url": "",
-    "keywords": "이동식 접이식 합창대 무대 학교 합창단 사진 촬영용 미끄럼방지+가드 3단"
+    "keywords": "이동식 접이식 합창대 무대 학교 합창단 사진 촬영용 미끄럼방지+가드 3단",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729334251",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 64,
@@ -568,7 +744,11 @@ window.PRODUCTS = [
     "image": "images/13729333803.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729333803",
     "coupang_url": "",
-    "keywords": "성인용 휴식용 소파 침실 거실 발코니 [테크 패브릭 베이스] 커피"
+    "keywords": "성인용 휴식용 소파 침실 거실 발코니 [테크 패브릭 베이스] 커피",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729333803",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 65,
@@ -577,7 +757,11 @@ window.PRODUCTS = [
     "image": "images/13729333425.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729333425",
     "coupang_url": "",
-    "keywords": "모던 심플 휴식용 소파 성인용 거실 발코니 릴렉스 체어 오렌지 베이스(테크 패브릭) 벨벳 쿠션"
+    "keywords": "모던 심플 휴식용 소파 성인용 거실 발코니 릴렉스 체어 오렌지 베이스(테크 패브릭) 벨벳 쿠션",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729333425",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 66,
@@ -586,7 +770,11 @@ window.PRODUCTS = [
     "image": "images/13729289769.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729289769",
     "coupang_url": "",
-    "keywords": "소형 가정용 볏짚 사료 절단기 초지 파쇄기 닭 돼지용 두꺼운 모델 2500W 8날 망간강 4날+4날 38mm 강판 방"
+    "keywords": "소형 가정용 볏짚 사료 절단기 초지 파쇄기 닭 돼지용 두꺼운 모델 2500W 8날 망간강 4날+4날 38mm 강판 방",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729289769",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 67,
@@ -595,7 +783,11 @@ window.PRODUCTS = [
     "image": "images/13729288044.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729288044",
     "coupang_url": "",
-    "keywords": "접이식 원형 식탁 소형 휴대용 미니 다이닝 테이블 화이트 화이트 마블 지름 100cm 4-6 인용"
+    "keywords": "접이식 원형 식탁 소형 휴대용 미니 다이닝 테이블 화이트 화이트 마블 지름 100cm 4-6 인용",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729288044",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 68,
@@ -604,7 +796,11 @@ window.PRODUCTS = [
     "image": "images/13729287238.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729287238",
     "coupang_url": "",
-    "keywords": "원목 주방 야채 과일 수납 다용도 바구니 정리대 블랙 4칸 내추럴 우드 직각형 4개"
+    "keywords": "원목 주방 야채 과일 수납 다용도 바구니 정리대 블랙 4칸 내추럴 우드 직각형 4개",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729287238",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 69,
@@ -613,7 +809,11 @@ window.PRODUCTS = [
     "image": "images/13729286944.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729286944",
     "coupang_url": "",
-    "keywords": "철제 다층 거실 사무실 선반 파티션 수납 80x30x200 클래식 월넛"
+    "keywords": "철제 다층 거실 사무실 선반 파티션 수납 80x30x200 클래식 월넛",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729286944",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 70,
@@ -622,7 +822,11 @@ window.PRODUCTS = [
     "image": "images/13729286368.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729286368",
     "coupang_url": "",
-    "keywords": "오픈형 컴퓨터 케이스 DIY 알루미늄 프레임 수냉 ATX 데스크탑 블랙 MATX"
+    "keywords": "오픈형 컴퓨터 케이스 DIY 알루미늄 프레임 수냉 ATX 데스크탑 블랙 MATX",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729286368",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 71,
@@ -631,7 +835,11 @@ window.PRODUCTS = [
     "image": "images/13729286050.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729286050",
     "coupang_url": "",
-    "keywords": "LED UV램프 자외선 경화기 아크릴 휴대용 냉광 60W-UV395nm 60-300W"
+    "keywords": "LED UV램프 자외선 경화기 아크릴 휴대용 냉광 60W-UV395nm 60-300W",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729286050",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 72,
@@ -640,7 +848,11 @@ window.PRODUCTS = [
     "image": "images/13729285852.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729285852",
     "coupang_url": "",
-    "keywords": "전동 고압 농업용 배터리식 살포기 물분사기 20L 납축전지 표준형(없음)"
+    "keywords": "전동 고압 농업용 배터리식 살포기 물분사기 20L 납축전지 표준형(없음)",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729285852",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 73,
@@ -649,7 +861,11 @@ window.PRODUCTS = [
     "image": "images/13729285638.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729285638",
     "coupang_url": "",
-    "keywords": "대용량 PVC 접이식 씨앗 발아기 발아통 발아용 1000L 400kg"
+    "keywords": "대용량 PVC 접이식 씨앗 발아기 발아통 발아용 1000L 400kg",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729285638",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 74,
@@ -658,7 +874,11 @@ window.PRODUCTS = [
     "image": "images/13729285465.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729285465",
     "coupang_url": "",
-    "keywords": "열선 절단기 수동 커팅기 라벨 밴드 컷팅기 소형 핸드메이드 DRQG50-A 팬 없음"
+    "keywords": "열선 절단기 수동 커팅기 라벨 밴드 컷팅기 소형 핸드메이드 DRQG50-A 팬 없음",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729285465",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 75,
@@ -667,7 +887,11 @@ window.PRODUCTS = [
     "image": "images/13729285152.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729285152",
     "coupang_url": "",
-    "keywords": "유리관 수위계 물탱크 레벨 측정기 소방용 수조 수위 DN15 201 L=500"
+    "keywords": "유리관 수위계 물탱크 레벨 측정기 소방용 수조 수위 DN15 201 L=500",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729285152",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 76,
@@ -676,7 +900,11 @@ window.PRODUCTS = [
     "image": "images/13729284964.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729284964",
     "coupang_url": "",
-    "keywords": "미세조정 레일 슬라이드 촬영용 미러리스 DSLR 사진용 화이트 플라스틱"
+    "keywords": "미세조정 레일 슬라이드 촬영용 미러리스 DSLR 사진용 화이트 플라스틱",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729284964",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 77,
@@ -685,7 +913,11 @@ window.PRODUCTS = [
     "image": "images/13729284776.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729284776",
     "coupang_url": "",
-    "keywords": "소형 수동 프레스 압착기 원판 핸드 압축기 0.5T 원본 박스"
+    "keywords": "소형 수동 프레스 압착기 원판 핸드 압축기 0.5T 원본 박스",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729284776",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 78,
@@ -694,7 +926,11 @@ window.PRODUCTS = [
     "image": "images/13729284610.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729284610",
     "coupang_url": "",
-    "keywords": "감자 채칼 수동 야채 슬라이서 오이 당근 무 채썰기 기계 가정용 업그레이드 8mm 1쌍 4개 연장 손잡이 더 쉬운 사"
+    "keywords": "감자 채칼 수동 야채 슬라이서 오이 당근 무 채썰기 기계 가정용 업그레이드 8mm 1쌍 4개 연장 손잡이 더 쉬운 사",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729284610",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 79,
@@ -703,7 +939,11 @@ window.PRODUCTS = [
     "image": "images/13729284313.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729284313",
     "coupang_url": "",
-    "keywords": "철밴드 수동 포장기 강철 스트랩 결속기 19# 철판 기계 (플라이어+텐셔너)"
+    "keywords": "철밴드 수동 포장기 강철 스트랩 결속기 19# 철판 기계 (플라이어+텐셔너)",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729284313",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 80,
@@ -712,7 +952,11 @@ window.PRODUCTS = [
     "image": "images/13729284187.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729284187",
     "coupang_url": "",
-    "keywords": "수상 양식장 플랫폼 부력구 플라스틱 부표 부력통 부력볼 부력박스 속이 꽉 찬 사각 4060 80kg"
+    "keywords": "수상 양식장 플랫폼 부력구 플라스틱 부표 부력통 부력볼 부력박스 속이 꽉 찬 사각 4060 80kg",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729284187",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 81,
@@ -721,7 +965,11 @@ window.PRODUCTS = [
     "image": "images/13729283945.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729283945",
     "coupang_url": "",
-    "keywords": "지게차 의자 농기계 작업차 낚시 의자 등받이 가죽 스펀지 좌석 블랙 접이식"
+    "keywords": "지게차 의자 농기계 작업차 낚시 의자 등받이 가죽 스펀지 좌석 블랙 접이식",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729283945",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 82,
@@ -730,7 +978,11 @@ window.PRODUCTS = [
     "image": "images/13729283821.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729283821",
     "coupang_url": "",
-    "keywords": "산업용 전기 도금 필터기 정밀 액체 내산 내알칼리 분리 장비 모델 2006 (20인치 6개 코어)"
+    "keywords": "산업용 전기 도금 필터기 정밀 액체 내산 내알칼리 분리 장비 모델 2006 (20인치 6개 코어)",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729283821",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 83,
@@ -739,7 +991,11 @@ window.PRODUCTS = [
     "image": "images/13729283607.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729283607",
     "coupang_url": "",
-    "keywords": "대형 가방 대용량 전기 작업용 수납 정리함 튼튼한 휴대용 전문가용 마스터 에디션"
+    "keywords": "대형 가방 대용량 전기 작업용 수납 정리함 튼튼한 휴대용 전문가용 마스터 에디션",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729283607",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 84,
@@ -748,7 +1004,11 @@ window.PRODUCTS = [
     "image": "images/13500691662.png",
     "url": "https://smartstore.naver.com/okjg_10/products/13500691662",
     "coupang_url": "",
-    "keywords": "땅콩탈곡기 껍질 까는기계 모델 모터 탈피기 자동"
+    "keywords": "땅콩탈곡기 껍질 까는기계 모델 모터 탈피기 자동",
+    "smartstore_url": "https://smartstore.naver.com/okjg_10/products/13500691662",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   },
   {
     "internal_no": 85,
@@ -757,6 +1017,10 @@ window.PRODUCTS = [
     "image": "images/13356752943.jpg",
     "url": "https://smartstore.naver.com/okjg_10/products/13356752943",
     "coupang_url": "",
-    "keywords": "가레지작기 5톤 유압잭 더블펌프 차량용 차량 정비 자키"
+    "keywords": "가레지작기 5톤 유압잭 더블펌프 차량용 차량 정비 자키",
+    "smartstore_url": "https://smartstore.naver.com/okjg_10/products/13356752943",
+    "market_display": "smartstore_only",
+    "show_smartstore": true,
+    "show_coupang": false
   }
 ];
