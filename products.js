@@ -775,5 +775,18 @@ window.PRODUCTS = [
     "show_smartstore": true,
     "show_coupang": true,
     "keywords": "농약 호스 압착기 고압 수도관 펜치 패럴 파이프 출력 프레스 버클"
+  },
+  {
+    "internal_no": 87,
+    "smartstore_product_no": "12667788597",
+    "name": "이동식 울타리 안전 가드레일 접이식 펜스 주차장 바리게이트",
+    "image": "images/12667788597.png",
+    "url": "https://smartstore.naver.com/okjg_10/products/12667788597",
+    "smartstore_url": "https://smartstore.naver.com/okjg_10/products/12667788597",
+    "coupang_url": "",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true,
+    "keywords": "이동식 울타리 안전 가드레일 접이식 펜스 주차장 바리게이트"
   }
 ];
