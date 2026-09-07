@@ -197,7 +197,11 @@ window.PRODUCTS = [
     "image": "images/13729558462.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13729558462",
     "coupang_url": "",
-    "keywords": "이중 댄스 학교용 블랙 사각관 고정형 압다리 바닥형 요가실 무용 연습용 기본 크림화이트 블랙"
+    "keywords": "이중 댄스 학교용 블랙 사각관 고정형 압다리 바닥형 요가실 무용 연습용 기본 크림화이트 블랙",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13729558462",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 21,
