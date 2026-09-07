@@ -273,7 +273,11 @@ window.PRODUCTS = [
     "image": "images/13726819092.jpg",
     "url": "https://smartstore.naver.com/itstem123123/products/13726819092",
     "coupang_url": "",
-    "keywords": "EMS 허리벨트 마사지기 복부 근육 피로 운동기구 W5 오렌지 허리 1개"
+    "keywords": "EMS 허리벨트 마사지기 복부 근육 피로 운동기구 W5 오렌지 허리 1개",
+    "smartstore_url": "https://smartstore.naver.com/itstem123123/products/13726819092",
+    "market_display": "both",
+    "show_smartstore": true,
+    "show_coupang": true
   },
   {
     "internal_no": 29,
