@@ -245,11 +245,15 @@ window.PRODUCTS = [
   {
     "internal_no": 24,
     "smartstore_product_no": "13559052929",
-    "name": "오아시스 원형 꽃꽂이",
+    "name": "소형오아시스 원형 꽃꽂이",
     "image": "images/13559052929.png",
-    "url": "https://smartstore.naver.com/itstem123123/products/13559052929",
+    "url": "https://smartstore.naver.com/itsfy123123/products/13559052929",
     "coupang_url": "https://www.coupang.com/vp/products/9476629956?vendorItemId=94966643267",
-    "keywords": "오아시스 원형 꽃꽂이"
+    "keywords": "소형오아시스 원형 꽃꽂이",
+    "smartstore_url": "https://smartstore.naver.com/itsfy123123/products/13559052929",
+    "market_display": "coupang_only",
+    "show_smartstore": false,
+    "show_coupang": true
   },
   {
     "internal_no": 25,
